@@ -1,3 +1,1 @@
-nginx
-mysql
-nodered/node-red:4.0-debian
+emqx/neuron:latest@19a23b03aaa8

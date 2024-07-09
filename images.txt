@@ -1,2 +1,2 @@
-emqx/neuron:2.9.0sha256:5121a83f5ae16bcec973ac0c6ae1ce2a64d408de9c3e1487b9f16e09be2325ff
+emqx/neuron:2.9.0@sha256:5121a83f5ae16bcec973ac0c6ae1ce2a64d408de9c3e1487b9f16e09be2325ff
 

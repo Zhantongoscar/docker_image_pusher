@@ -1,1 +1,3 @@
-emqx/neuron:2.9.0@sha256:19a23b03aaa849687cdd0cd4b7f0317a8efaaa80f8980354222b400d9e098978
+emqx/neuron
+emqx
+mysql

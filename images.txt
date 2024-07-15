@@ -1,1 +1,1 @@
-fbraz3/lnmp:5.6@sha256:9da37170d04a71a7357681ab8b9d5bbbabe067cb381c9f960e0f36c79c1be37f
+fbraz3/lnmp:8.3

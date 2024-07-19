@@ -1,1 +1,4 @@
-fbraz3/lnmp:8.3
+emqx/neuron:2.9.0
+emqx/emqx:5.7
+nodered/node-red:4.0.2-22
+fbraz3/lnmp:5.6

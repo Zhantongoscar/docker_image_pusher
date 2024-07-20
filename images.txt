@@ -1,4 +1,2 @@
-emqx/neuron:2.9.0
-emqx/emqx:5.7
-nodered/node-red:4.0.2-22
-fbraz3/lnmp:5.6
+emqx/emqx:5.7@sha256:5ab9469ccfbbc7ca41b433234c06960abf3a29146c86678ff795ff022e9916e8
+

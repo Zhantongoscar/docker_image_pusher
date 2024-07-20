@@ -1,1 +1,1 @@
-mysql:8.4.1
+nodered/node-red:4.0

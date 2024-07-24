@@ -1,1 +1,1 @@
-emqx/neuron:latest
+bltavares/zerotier:latest

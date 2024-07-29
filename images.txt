@@ -1,1 +1,1 @@
-bltavares/zerotier:latest
+centos:centos7

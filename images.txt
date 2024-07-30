@@ -1,1 +1,2 @@
-tencentos/tencentos_server24
+ubuntu:22.04
+

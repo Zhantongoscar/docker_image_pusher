@@ -1,1 +1,1 @@
-nodered/node-red:4.0.2-18@sha256:f71d87aa5ca51a1301accb56ef6e058745eceda84329e0c40fe6e0e4671ad3f7
+nodered/node-red:3.1.11-18@sha256:a935bbdf11a871fb39b8639d8f5d3c3e851fb5ddd23c2337cb9ccc45e84f816f

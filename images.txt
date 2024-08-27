@@ -1,1 +1,1 @@
-frangoteam/fuxa:1.2.0@sha256:65d0b196d8f89539ebb4105d4ea3e1219663fac885c9d388fc3ab5fc70003bad
+frangoteam/fuxa

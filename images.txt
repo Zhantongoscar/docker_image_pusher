@@ -1,1 +1,1 @@
-mysql:8.3.0@sha256:3c8a4cbedece61d65a71af97c3faff88b6fdd7aeb9440b425e8e9fa57a69626a
+mysql:5.7.40-debian

@@ -1,1 +1,2 @@
-nodered/node-red:4.0
+mysql:8.0.35
+mysql:8.0.39@sha256:450e61bde4521211a86fcb34d20f109772348dee815f9de8ef7487fedfbf6ddb
